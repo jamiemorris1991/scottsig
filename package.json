@@ -1,0 +1,20 @@
+{
+  "name": "sc-certificate-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.13.4",
+    "fs": "0.0.2",
+    "http-server": "^0.8.5",
+    "path": "^0.12.7",
+    "pem": "^1.8.1",
+    "ssl-root-cas": "^1.1.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
